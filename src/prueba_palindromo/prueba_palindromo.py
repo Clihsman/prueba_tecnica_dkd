@@ -1,0 +1,1 @@
+palabras = ["oso", "casa", "radar", "sol", "reconocer", "luz", "anilina"]
